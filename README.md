@@ -1,3 +1,4 @@
+# NOT UPDATED - DEPRECATED - KEEPING IT JUST AS A LOG
 # Coding-Practice-deprecated
 This repository contains several coding practice problems i have completed. Deprecated.
 
